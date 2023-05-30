@@ -1,6 +1,7 @@
 def ajeita(frase: str):
     """
     Capitaliza a primeira letra de cada palavra em uma frase, exceto para certas palavras.
+    Utilizo para nomes pr
 
     Args:
         frase (str): A frase a ser modificada.
